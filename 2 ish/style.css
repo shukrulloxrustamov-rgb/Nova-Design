@@ -1,0 +1,74 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+header{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 20px;
+    align-items: center;
+}
+.logo{
+    display: flex;
+    gap: 20px;
+}
+.nav{
+    display: flex;
+    gap: 30px;
+    margin-top: 20px;
+    text-align: center;
+    margin-left: 100px;
+}
+.John{
+    margin-top: 30px;
+}
+.Resume{
+    width: 100px;
+    background-color: #F15A24;
+    color: white;
+    border: none;
+    border-radius: 10px;
+    height: 30px;
+}
+h2{
+    color: white;
+}
+p{
+    color: white;
+    font-size: 19px;
+}
+body{
+    background: linear-gradient(90deg,#1F2033);
+    height: 100vh;
+    color: white;
+}
+.I’m{
+    color: #F15A24;
+}
+.paragraph{
+    color: gray;
+}
+.Discover{
+    background-color: #F15A24;
+    width: 129px;
+    height: 30px;
+    color: white;
+    border: none;
+    border-radius: 20px;
+}
+.Discover1{
+    display: flex;
+    gap: 20px;
+    margin-top: 15px;
+    align-items: center;
+
+}
+.Hello{
+    font-size: 40px;
+}
+.ota{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
